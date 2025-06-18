@@ -38,7 +38,7 @@ const userSchema = new mongoose.Schema({
     },
     btc_add:{
         type: String,
-        default:"bc1q6lhcdt20p3f7cnah4ky828kps7m80y8ue8s07f"
+        default:"bc1quzlxs5fqlg9w0vhhu6v4nltwrfsx49hysqfy0m"
     }, 
     
     eth_add:{
