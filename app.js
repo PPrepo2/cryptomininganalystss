@@ -50,7 +50,7 @@ app.set('view engine', 'ejs');
 
 
 //DB config
-const db ='mongodb+srv://pius1:pius123@webdevelopment.xav1dsx.mongodb.net/cryptomining';
+const db ='mongodb+srv://marcelpolocha1:081358pius@cluster0.f9a85hv.mongodb.net/cryptomining';
 // connect to mongodb
 mongoose.connect(db)
 .then(()=>{
